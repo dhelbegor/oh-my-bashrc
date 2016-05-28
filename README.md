@@ -1,13 +1,18 @@
 # oh-my-bashrc
 personal configs for the .bashrc
 
-
 usage:
 ------
 
-for create new project with my personal boilerplate:
+add content of bashrc in ~/.bashrc
 
+with activated env shows the branch at the prompt
+    (.venv)project_name (master)$
 
-    $ en project_name    # init the project
+starts new project with my personal boilerplate (django)
+    $ en project_name
+
+starts new app
+    $ app app_name
 
 
